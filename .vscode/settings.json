@@ -1,0 +1,6 @@
+{
+  "lua.debug.settings.luaVersion": "5.4",
+  "Lua.diagnostics.disable": [
+    "lowercase-global"
+  ]
+}
